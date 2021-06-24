@@ -1,9 +1,10 @@
 ### Hello, stranger! Welcome to my profile! 🤖
 
-[![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flavioCoder1)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flavioCoder1)]
 
 
-[![Flavio Cordeiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=flavioCoder1)](https://github.com/anuraghazra/github-readme-stats)
+[![Flavio Cordeiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=synthwave)
+
 
 <!--
 **flavioCoder1/flavioCoder1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
