@@ -13,7 +13,7 @@ Welcome to my profile! 👩‍💻
 
 
 
-[![Flavio Cordeiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=flavioCoder1&show_icons=true&theme=synthwave)
+[![Flavio Cordeiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=flavioCoder1&show_icons=true&theme=chartreuse-dark)
 
 
 <!--
