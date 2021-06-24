@@ -8,11 +8,6 @@ Welcome to my profile! 👩‍💻
 
 
 
-
-![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flavioCoder1)
-
-
-
 [![Flavio Cordeiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=flavioCoder1&show_icons=true&theme=chartreuse-dark)
 
 
