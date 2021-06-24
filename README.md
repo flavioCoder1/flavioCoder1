@@ -6,7 +6,7 @@
 
 Welcome to my profile! 👩‍💻
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flavioCoder1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flavioCoder1&layout=compact)]
 
 
 [![Flavio Cordeiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=flavioCoder1&show_icons=true&theme=chartreuse-dark)
