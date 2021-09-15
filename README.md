@@ -36,6 +36,9 @@
 :unlock: React Testing Library;
 :unlock: Agile Methodology (Scrum && Kanban)
 
+
+## Github Stats :zap:
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flavioCoder1&layout=compact)
 
 
