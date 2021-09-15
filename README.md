@@ -31,7 +31,7 @@
   
 </div>
 
-### Hard Skills complementares:
+### More Hard Skills :
 :unlock: React DOM;
 :unlock: React Testing Library;
 :unlock: Agile Methodology (Scrum && Kanban)
