@@ -3,7 +3,7 @@
 
 ### Welcome to my profile! I'm a FullStack Developer Student at Trybe ! 👩‍💻
 
-### Tools and Technology aprendidas:
+### Tools and Technology learned:
 
 <div style="display: inline_block"><br>
   <i class="devicon-html5-plain colored"></i>
