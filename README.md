@@ -1,7 +1,7 @@
 ### Hello, stranger! I'm Flavio Cordeiro !   ༼ つ ◕_◕ ༽つ
 
 
-Welcome to my profile! 👩‍💻
+### Welcome to my profile! I'm a FullStack Developer Student at Trybe ! 👩‍💻
 
 ### Ferramentas e Tecnologias aprendidas:
 
