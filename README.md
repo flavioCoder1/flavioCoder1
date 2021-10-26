@@ -6,10 +6,12 @@
 
 ## Github Stats :zap:
 
-[![Flavio Cordeiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=flavioCoder1&show_icons=true&theme=chartreuse-dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flavioCoder1&layout=compact)
-
+<div style="display: block">
+  <a href="https://github.com/flavioCoder1">
+<img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=flavioCoder1&show_icons=true&theme=chartreuse-dark&layout=compact">
+<img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavioCoder1&theme=vue-dark&layout=compact">
+  </a>
+</div>
 
 ### Tools and Technology learned:
 
