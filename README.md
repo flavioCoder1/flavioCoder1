@@ -9,7 +9,7 @@
 <div style="display: block">
   <a href="https://github.com/flavioCoder1">
 <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=flavioCoder1&show_icons=true&amp;include_all_commits=true&amp;count_private=true&theme=chartreuse-dark&layout=compact">
-<img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavioCoder1&theme=vue-dark&layout=compact">
+<img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavioCoder1&theme=chartreuse-dark&layout=compact">
   </a>
 </div>
 
