@@ -3,26 +3,33 @@
 
 ### Welcome to my profile! I'm a FullStack Developer Student at Trybe ! 👩‍💻
 
+
+## Github Stats :zap:
+
+[![Flavio Cordeiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=flavioCoder1&show_icons=true&theme=chartreuse-dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flavioCoder1&layout=compact)
+
+
 ### Tools and Technology learned:
 
 <div style="display: inline_block"><br>
-  <i class="devicon-html5-plain colored"></i>
-  <img align="center" alt="ewe-Ubuntu" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ19OKULissdagB8wf3tbPIthV6e0Wqhpm6ok69lGRNKDPSk9UohszsCjIlXHeLdKH9p3Q&usqp=CAU">
-  <img align="center" alt="ewe-Slack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg">
-  <img align="center" alt="ewe-VScode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="ewe-Trello" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg">
-  <img align="center" alt="ewe-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="ewe-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="center" alt="ewe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="ewe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="ewe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="ewe-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="ewe-Jest" height="30" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/jest-512.png">
-  <img align="center" alt="ewe-React" height="30" width="40" src="https://play-lh.googleusercontent.com/AFY95yFw1P4ErzREpYWiSRyy6GyFA34pc70dP7MuHfkP12alfktC0Rp2ht-LbPAvO5sg">
-  <img align="center" alt="ewe-Redux" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlwhdlrgiz7NiLtmqZtEUpanLIG3fI2UoYFAAyl1ADH7OMRu5BFQSXTcKcgeSwGhRaoIc&usqp=CAU">
+  <img align="center" alt="ewe-VSCode" src="https://camo.githubusercontent.com/19117b013588d83313084a68e99e8ebfa837f0222e7bb1b9736b7401432d8ba0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5653436f64652d3030374143433f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c73747564696f636f6465266c6f676f436f6c6f723d7768697465">
+  <img align="center" alt="ewe-React" src="https://camo.githubusercontent.com/0fba4476c2741e4c55a7df3fcda71d2bb939a0e4aca7c3b743e2a099a4cb7010/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3631444146423f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d626c61636b">
+  <img align="center" alt="ewe-Redux" src="https://camo.githubusercontent.com/fba21e5cffa1e7a933c7463ce905ca0e8fe2276c1bb397d5e0411e62d6c61395/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656475782d3736344142433f7374796c653d666f722d7468652d6261646765266c6f676f3d7265647578266c6f676f436f6c6f723d7768697465">
+  <img align="center" alt="ewe-JS" src="https://camo.githubusercontent.com/8534512647fe601e7de7b3c47924865e592a3bbfcf4c98b8452c14e29f066fd0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b">
+  <img align="center" alt="ewe-HTML" src="https://camo.githubusercontent.com/939ccbc4390d4b233428c14aeee9278cf90c10e970e0234a42899451538873b1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465">
+  <img align="center" alt="ewe-CSS" src="https://camo.githubusercontent.com/c903606ae5f49481c87b122c7659bf1bc72a694ee5a015f46a57c5f5f0ade225/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465">
+  <img align="center" alt="ewe-Jest" src="https://camo.githubusercontent.com/ff5966ab2cc8c704aecdf9494dcce2a4d8939cf2e1b2f504f8f6431be99c937a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6573742d4332313332353f7374796c653d666f722d7468652d6261646765266c6f676f3d6a657374266c6f676f436f6c6f723d7768697465">
+  <img align="center" alt="ewe-GIT" src="https://camo.githubusercontent.com/324ecb8e3920e6c4826b60f2afd553c8a1b6ea87782030de0eaa65bb8c8b2919/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465"><br><br>
+  <img align="center" alt="ewe-nodeJS" src="https://camo.githubusercontent.com/7d7b100e379663ee40a20989e6c61737e6396c1dafc3a7c6d2ada8d4447eb0e4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652e6a732d3644413535463f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465">
+  <img align="center" alt="ewe-MySQL" src="https://camo.githubusercontent.com/918fce8d50581bd97b7133e677a78ed2cad14f970522f219daaeb6d1c81060e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d2532333030662e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465">
+  <img align="center" alt="ewe-MongoDB" src="https://camo.githubusercontent.com/a4a972c6d1eee141be8cb21f71433c7c3c03b16b6609bb360f474b86dbd54a92/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d6f6e676f64622d3030383030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d6c69676874677265656e">
+  <img align="center" alt="ewe-Bootstrap" src="https://camo.githubusercontent.com/53acc701b97859af489d9253eb1d466a6774e48559b5ecef1f825109096a05b5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d426f6f7473747261702d3736344142433f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465">
+  <img align="center" alt="ewe-Trello" src="https://camo.githubusercontent.com/ad39b7387180a8021391547b17510ae4c9aaba533c1e7755ff0ed36b4bced136/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7472656c6c6f2d3431363945312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7472656c6c6f266c6f676f436f6c6f723d7768697465">
 </div>  
   
-##
+## Stay in touch!
 
 <div> 
   <a href="https://instagram.com/flavio_cav" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -35,27 +42,3 @@
 :unlock: React DOM;
 :unlock: React Testing Library;
 :unlock: Agile Methodology (Scrum && Kanban)
-
-
-## Github Stats :zap:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flavioCoder1&layout=compact)
-
-
-[![Flavio Cordeiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=flavioCoder1&show_icons=true&theme=chartreuse-dark)
-
-
-<!--
-**flavioCoder1/flavioCoder1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
