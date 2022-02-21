@@ -41,7 +41,7 @@ src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&
   <a href="https://instagram.com/flavio_cav" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:flavio_ribeirorc@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/flavio-cordeiro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://flavioportfolio7.herokuapp.com/" target="_blank"><img src="https://img.shields.io/badge/Flavio-Portfolio-blue?style=for-the-badge&logo=adobefonts" target="_blank"></a>
+  <a href="https://flavioportfolio7.herokuapp.com/" target="_blank"><img src="https://img.shields.io/badge/Flavio-Portfolio-orange?style=for-the-badge&logo=adobefonts" target="_blank"></a>
   
 </div>
 
