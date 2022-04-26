@@ -47,6 +47,7 @@ src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&
 </div>
 
 ### More Hard Skills :
+
 :unlock: React DOM;
 :unlock: React Testing Library;
 :unlock: Agile Methodology (Scrum && Kanban)
