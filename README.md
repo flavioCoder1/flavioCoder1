@@ -1,7 +1,7 @@
 ### Hello, stranger! I'm Flavio Cordeiro !   ༼ つ ◕_◕ ༽つ
 
 
-### Welcome to my profile! I'm a FullStack Developer Student at Trybe ! 👩‍💻
+### Welcome to my profile! I'm a Software Engineer at Accenture Brasil ! 👩‍💻
 
 ## <a href="https://flavioportfolio7.herokuapp.com/" target="_blank"><img src="https://img.shields.io/badge/Flavio-Portfolio-orange?style=for-the-badge&logo=adobefonts" target="_blank"></a>
 
