@@ -24,6 +24,7 @@
   <img align="center" alt="ewe-JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img align="center" alt="ewe-GRADLE" src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white">
   <img align="center" alt="ewe-AZURE" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
+   <img align="center" alt="ewe-AZURE" src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white">
   <img align="center" alt="ewe-AZURE-DATA-EXPLORER" src="https://img.shields.io/badge/Azure%20Data%20Explorer-0078D4.svg?style=for-the-badge&logo=Azure-Data-Explorer&logoColor=white">
   <img align="center" alt="ewe-AZURE-PIPELINES" src="https://img.shields.io/badge/Azure%20Pipelines-2560E0.svg?style=for-the-badge&logo=Azure-Pipelines&logoColor=white">
   <img align="center" alt="ewe-AZURE-DEVOPS" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white">
