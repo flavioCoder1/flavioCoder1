@@ -21,8 +21,11 @@
   <img align="center" alt="ewe-React" src="https://camo.githubusercontent.com/0fba4476c2741e4c55a7df3fcda71d2bb939a0e4aca7c3b743e2a099a4cb7010/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3631444146423f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d626c61636b">
   <img align="center" alt="ewe-Redux" src="https://camo.githubusercontent.com/fba21e5cffa1e7a933c7463ce905ca0e8fe2276c1bb397d5e0411e62d6c61395/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656475782d3736344142433f7374796c653d666f722d7468652d6261646765266c6f676f3d7265647578266c6f676f436f6c6f723d7768697465">
   <img align="center" alt="ewe-JS" src="https://camo.githubusercontent.com/8534512647fe601e7de7b3c47924865e592a3bbfcf4c98b8452c14e29f066fd0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b">
-  <img align="center" alt="ewe-JAVA" src="	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img align="center" alt="ewe-JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img align="center" alt="ewe-GRADLE" src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white">
   <img align="center" alt="ewe-AZURE" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
+  <img align="center" alt="ewe-AZURE-DATA-EXPLORER" src="https://img.shields.io/badge/Azure%20Data%20Explorer-0078D4.svg?style=for-the-badge&logo=Azure-Data-Explorer&logoColor=white">
+  <img align="center" alt="ewe-AZURE-PIPELINES" src="https://img.shields.io/badge/Azure%20Pipelines-2560E0.svg?style=for-the-badge&logo=Azure-Pipelines&logoColor=white">
   <img align="center" alt="ewe-AZURE-DEVOPS" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white">
   <img align="center" alt="ewe-AZURE-FUNCTIONS" src="https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white">
   <img align="center" alt="ewe-HTML" src="https://camo.githubusercontent.com/939ccbc4390d4b233428c14aeee9278cf90c10e970e0234a42899451538873b1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465">
