@@ -3,8 +3,6 @@
 
 ### Welcome to my profile! I'm a Software Engineer at Orla Tech ! 👩‍💻
 
-## <a href="https://flavioportfolio7.herokuapp.com/" target="_blank"><img src="https://img.shields.io/badge/Flavio-Portfolio-orange?style=for-the-badge&logo=adobefonts" target="_blank"></a>
-
 ## Github Stats :zap:
 
 <div style="display: block">
